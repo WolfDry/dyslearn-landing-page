@@ -384,6 +384,11 @@
   font-family: "Glacial Indifference-Regular", Helvetica;
 }
 
+.desktop .rectangle-2 .link{
+  color: #F56004;
+  text-decoration: none;
+}
+
 .desktop .CTA-decouvrir {
   height: 52px;
   left: 1160px;

@@ -14,10 +14,10 @@ function Home() {
           <img className="fichier" alt="Fichier" src="./img/number-two-yellow.png" />
           <img className="fichier-x" alt="Fichier" src="./img/number-nine.png" />
         </div>
-        <div className="text-wrapper">Les avantages de DysLearn</div>
+        <div className="text-wrapper" id='avantages'>Les avantages de DysLearn</div>
         <div className="overlap-group">
           <div className="overlap-2">
-            <div className="overlap-3">
+            <div className="overlap-3" id='app'>
               <p className="p">Une interface propice à l'apprentissage académique de nos enfants</p>
               <img className="img" alt="Fichier" src="./img/number-three.png" />
             </div>
@@ -52,18 +52,18 @@ function Home() {
             </p>
             <div className="overlap-10">
               <div className="rectangle-2">
-                <p className='link'>
+                <a href='#who' className='link'>
                   Qui sommes nous ?
-                </p>
-                <p className='link'>
+                </a>
+                <a href='#solution' className='link'>
                   Notre solution
-                </p>
-                <p className='link'>
+                </a>
+                <a href='#avantages' className='link'>
                   Nos avantages
-                </p>
-                <p className='link'>
+                </a>
+                <a href='#app' className='link'>
                   L'application
-                </p>
+                </a>
               </div>
               <div className="CTA-decouvrir">
                 <div className="div-wrapper">
@@ -100,7 +100,7 @@ function Home() {
             </div>
             <div className="overlap-15">
               <div className="rectangle-5" />
-              <div className="rectangle-6" />
+              <div className="rectangle-6" id='who' />
               <div className="text-wrapper-11">Bienvenue sur DysLearn</div>
               <div className="flexcontainer-2">
                 <p className="span-wrapper">
@@ -140,7 +140,7 @@ function Home() {
           immersive conçue pour aider les enfants à surmonter les défis de la dyslexie et de la dyscalculie tout en
           s&#39;amusant.
         </p>
-        <div className="text-wrapper-15">La Solution DysLearn</div>
+        <div className="text-wrapper-15" id='solution'>La Solution DysLearn</div>
         <div className="overlap-16">
           <div className="overlap-17">
             <div className="overlap-18">

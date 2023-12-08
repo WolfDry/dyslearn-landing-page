@@ -1,0 +1,52 @@
+.div2{
+    background-color: #fff9ee;
+    overflow: hidden;
+    position: relative;
+    width: 90rem;
+    height: 88.1875rem; 
+}
+
+.overlap-24{
+    height: 621px;
+    left: 0;
+    position: absolute;
+    top: 300px;
+    width: 1375px;
+}
+
+.logo-bleu-dys-3{
+    height: 194px;
+    left: 598px;
+    object-fit: cover;
+    position: absolute;
+    top: 62.13rem;
+    width: 243px;
+}
+
+.address2{
+    width: 44.9375rem; 
+    color: #F56004;
+    text-align: center;
+    font-family: "Glacial Indifference-Bold", Helvetica;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    top: 76.31rem;
+    left: 22.5rem;
+}
+
+.desktop .copyright2{
+    width: 44.9375rem; 
+    color: #F56004;
+    text-align: center;
+    font-family: "Glacial Indifference-Regular", Helvetica;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    position: absolute;
+    top: 78.56rem;
+    left: 22.5rem;
+  }

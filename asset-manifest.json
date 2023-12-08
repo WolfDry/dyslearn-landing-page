@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dyslearn/static/css/main.e29877d2.css",
+    "main.css": "/dyslearn/static/css/main.19d77793.css",
     "main.js": "/dyslearn/static/js/main.91b7acde.js",
     "index.html": "/dyslearn/index.html",
-    "main.e29877d2.css.map": "/dyslearn/static/css/main.e29877d2.css.map",
+    "main.19d77793.css.map": "/dyslearn/static/css/main.19d77793.css.map",
     "main.91b7acde.js.map": "/dyslearn/static/js/main.91b7acde.js.map"
   },
   "entrypoints": [
-    "static/css/main.e29877d2.css",
+    "static/css/main.19d77793.css",
     "static/js/main.91b7acde.js"
   ]
 }

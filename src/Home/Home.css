@@ -4,6 +4,7 @@
   flex-direction: row;
   justify-content: center;
   width: 100%;
+  scroll-behavior: smooth;
 }
 
 .desktop .div {
